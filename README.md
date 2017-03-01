@@ -39,7 +39,7 @@ If you are having problems executing the experiments or the tutorials, do not he
    [Python]: <https://www.python.org/>
    [R]: <https://www.r-project.org/>
    [open an issue]: <https://github.com/REFRAME/betacal/issues>
-   [Python tutorial]: <https://github.com/REFRAME/betacal/blob/master/python/tutorial/Python%20tutorial.ipynb>
-[R tutorial]: <https://github.com/REFRAME/betacal/blob/master/R/tutorial/Rtutorial.pdf>
-[Python package]: <https://pypi.python.org/pypi/betacal>
-[R package]: <https://cran.r-project.org/web/packages/betacal/index.html>
+   [Python tutorial]: <https://github.com/betacal/python/blob/master/tutorial/Python%20tutorial.ipynb>
+   [R tutorial]: <https://github.com/betacal/R/blob/master/tutorial/Rtutorial.pdf>
+   [Python package]: <https://pypi.python.org/pypi/betacal>
+   [R package]: <https://cran.r-project.org/web/packages/betacal/index.html>
