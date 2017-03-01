@@ -30,7 +30,7 @@ _Kull, M., Silva Filho, T.M. and Flach, P., Beta calibration: a well-founded and
 
 # Support or Contact
 
-If you are having problems executing the experiments or the tutorials, do not hesitate to [open an issue] or contact us.
+If you are having problems executing the experiments or the tutorials, do not hesitate to contact us.
 
 [//]: # (References)
    [Meelis Kull]: <http://www.bris.ac.uk/engineering/people/meelis-kull/>
@@ -38,7 +38,6 @@ If you are having problems executing the experiments or the tutorials, do not he
    [Peter Flach]: <https://www.cs.bris.ac.uk/~flach/>
    [Python]: <https://www.python.org/>
    [R]: <https://www.r-project.org/>
-   [open an issue]: <https://github.com/REFRAME/betacal/issues>
    [Python tutorial]: <https://github.com/betacal/python/blob/master/tutorial/Python%20tutorial.ipynb>
    [R tutorial]: <https://github.com/betacal/R/blob/master/tutorial/Rtutorial.pdf>
    [Python package]: <https://pypi.python.org/pypi/betacal>
