@@ -22,6 +22,13 @@ We provide usage tutorials for beta calibration in Python and R.
 * [Python tutorial] 
 * [R tutorial]
 
+# AISTATS2017
+
+Click on the following links to download the poster and the presentation slides from AISTATS2017.
+
+* [AISTATS2017 poster] 
+* [AISTATS2017 slides]
+
 # Citing Beta Calibration
 
 If you want to cite this work, please use the following citation format: 
@@ -42,3 +49,5 @@ If you are having problems executing the experiments or the tutorials, do not he
    [R tutorial]: <https://github.com/betacal/R/blob/master/tutorial/Rtutorial.pdf>
    [Python package]: <https://pypi.python.org/pypi/betacal>
    [R package]: <https://cran.r-project.org/web/packages/betacal/index.html>
+   [AISTATS2017 poster]: <https://github.com/betacal/aistats2017/blob/master/aistats2017_beta_calibration_poster.pdf>
+   [AISTATS2017 slides]: <https://github.com/betacal/aistats2017/blob/master/aistats2017_beta_calibration_slides.pdf>
