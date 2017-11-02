@@ -24,8 +24,9 @@ We provide usage tutorials for beta calibration in Python and R.
 
 # AISTATS2017
 
-Click on the following links to download the poster and the presentation slides from AISTATS2017.
+Click on the following links to access the paper or download the poster and the presentation slides from AISTATS2017.
 
+* [AISTATS2017 paper] 
 * [AISTATS2017 poster] 
 * [AISTATS2017 slides]
 
@@ -33,7 +34,7 @@ Click on the following links to download the poster and the presentation slides 
 
 If you want to cite this work, please use the following citation format: 
 
-_Kull, M., Silva Filho, T.M. and Flach, P., Beta calibration: a well-founded and easily implemented improvement on logistic calibration for binary classifiers. AISTATS 2017. (in press)_.
+_Meelis Kull, Telmo Silva Filho, Peter Flach; Proceedings of the 20th International Conference on Artificial Intelligence and Statistics, PMLR 54:623-631, 2017._
 
 # Support or Contact
 
@@ -49,5 +50,6 @@ If you are having problems executing the experiments or the tutorials, do not he
    [R tutorial]: <https://github.com/betacal/R/blob/master/tutorial/Rtutorial.pdf>
    [Python package]: <https://pypi.python.org/pypi/betacal>
    [R package]: <https://cran.r-project.org/web/packages/betacal/index.html>
+   [AISTATS2017 paper]: <http://proceedings.mlr.press/v54/kull17a.html>
    [AISTATS2017 poster]: <https://github.com/betacal/aistats2017/blob/master/aistats2017_beta_calibration_poster.pdf>
    [AISTATS2017 slides]: <https://github.com/betacal/aistats2017/blob/master/aistats2017_beta_calibration_slides.pdf>
