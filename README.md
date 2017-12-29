@@ -22,7 +22,9 @@ We provide usage tutorials for beta calibration in Python and R.
 * [Python tutorial] 
 * [R tutorial]
 
-# AISTATS2017
+# Documents
+
+## AISTATS2017
 
 Click on the following links to access the paper or download the poster and the presentation slides from AISTATS2017.
 
@@ -30,11 +32,20 @@ Click on the following links to access the paper or download the poster and the 
 * [AISTATS2017 poster] 
 * [AISTATS2017 slides]
 
+## Electronic Journal of Statistics
+
+We have published an extended version of the AISTATS2017 paper in the Electronic Journal of Statistics. The most significant additions include additional experiments with logistic regression, random forest, multi-layer perceptron and support vector machine; an empirical investigation of the effect of dataset size on the performance of the various calibration methods; and a novel statistical test that builds on beta calibration to recognise if the model deviates from being well-calibrated.
+Click [here] to access the paper.
+
 # Citing Beta Calibration
 
-If you want to cite this work, please use the following citation format: 
+If you want to cite the AISTATS work, please use the following citation format: 
 
-_Meelis Kull, Telmo Silva Filho, Peter Flach; Proceedings of the 20th International Conference on Artificial Intelligence and Statistics, PMLR 54:623-631, 2017._
+_Meelis Kull, Telmo Silva Filho, Peter Flach; Beta calibration: a well-founded and easily implemented improvement on logistic calibration for binary classifiers, Proceedings of the 20th International Conference on Artificial Intelligence and Statistics, PMLR 54:623-631, 2017._
+
+For the EJS paper, use the following citation format:
+
+_Meelis Kull, Telmo Silva Filho, Peter Flach; Beyond sigmoids: How to obtain well-calibrated probabilities from binary classifiers with beta calibration. Electron. J. Statist. 11 (2017), no. 2, 5052--5080. doi:10.1214/17-EJS1338SI._
 
 # Support or Contact
 
@@ -53,3 +64,4 @@ If you are having problems executing the experiments or the tutorials, do not he
    [AISTATS2017 paper]: <http://proceedings.mlr.press/v54/kull17a.html>
    [AISTATS2017 poster]: <https://github.com/betacal/aistats2017/blob/master/aistats2017_beta_calibration_poster.pdf>
    [AISTATS2017 slides]: <https://github.com/betacal/aistats2017/blob/master/aistats2017_beta_calibration_slides.pdf>
+   [here]: <https://projecteuclid.org/euclid.ejs/1513306867>
